@@ -1,0 +1,14 @@
+c:\users\seten\documents\visual studio 2015\Projects\CurrencyRateApplication\CurrencyRateApplication\bin\Debug\CurrencyRateApplication.exe.config
+c:\users\seten\documents\visual studio 2015\Projects\CurrencyRateApplication\CurrencyRateApplication\bin\Debug\CurrencyRateApplication.exe
+c:\users\seten\documents\visual studio 2015\Projects\CurrencyRateApplication\CurrencyRateApplication\bin\Debug\CurrencyRateApplication.pdb
+c:\users\seten\documents\visual studio 2015\Projects\CurrencyRateApplication\CurrencyRateApplication\obj\Debug\CurrencyRateApplication.csprojResolveAssemblyReference.cache
+c:\users\seten\documents\visual studio 2015\Projects\CurrencyRateApplication\CurrencyRateApplication\obj\Debug\MainWindow.g.cs
+c:\users\seten\documents\visual studio 2015\Projects\CurrencyRateApplication\CurrencyRateApplication\obj\Debug\App.g.cs
+c:\users\seten\documents\visual studio 2015\Projects\CurrencyRateApplication\CurrencyRateApplication\obj\Debug\CurrencyRateApplication_MarkupCompile.cache
+c:\users\seten\documents\visual studio 2015\Projects\CurrencyRateApplication\CurrencyRateApplication\obj\Debug\CurrencyRateApplication_MarkupCompile.lref
+c:\users\seten\documents\visual studio 2015\Projects\CurrencyRateApplication\CurrencyRateApplication\obj\Debug\MainWindow.baml
+c:\users\seten\documents\visual studio 2015\Projects\CurrencyRateApplication\CurrencyRateApplication\obj\Debug\CurrencyRateApplication.g.resources
+c:\users\seten\documents\visual studio 2015\Projects\CurrencyRateApplication\CurrencyRateApplication\obj\Debug\CurrencyRateApplication.Properties.Resources.resources
+c:\users\seten\documents\visual studio 2015\Projects\CurrencyRateApplication\CurrencyRateApplication\obj\Debug\CurrencyRateApplication.csproj.GenerateResource.Cache
+c:\users\seten\documents\visual studio 2015\Projects\CurrencyRateApplication\CurrencyRateApplication\obj\Debug\CurrencyRateApplication.exe
+c:\users\seten\documents\visual studio 2015\Projects\CurrencyRateApplication\CurrencyRateApplication\obj\Debug\CurrencyRateApplication.pdb
